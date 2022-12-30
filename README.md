@@ -2,7 +2,7 @@
 
 Simple pong game made with pygame
 
-By Andrew Towell
+By Andrew Towell (2019)
 
 Main File
   - Pong.py
